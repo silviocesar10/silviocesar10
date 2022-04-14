@@ -1,0 +1,4 @@
+- 👋 Olá, meu nonme é Sílvio Cesar Silva Oliveira @silviocesar10
+- 👀 eu gosto muito de sistemas embarcados e retro computing
+- 🌱 Atualmente estudo Sistemas de informação no IFES 
+- 📫 me contate via silviocesar429@hotmail.com
