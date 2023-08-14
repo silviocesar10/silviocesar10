@@ -1,4 +1,5 @@
 - 👋 Olá, meu nonme é Sílvio Cesar Silva Oliveira @silviocesar10
 - 👀 eu gosto muito de sistemas embarcados e retro computing
+- 🐧 eu amo mexer cm sistemas linux e unix em geral, eu uso o arch linux
 - 🌱 Atualmente estudo Sistemas de informação no IFES 
 - 📫 me contate via silviocesar429@hotmail.com
